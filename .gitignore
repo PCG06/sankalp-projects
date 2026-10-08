@@ -1,3 +1,5 @@
 ravdess/
 Tess/
 *.zip
+.venv/
+*.Identifier
